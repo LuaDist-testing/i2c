@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'i2c'
-version = '1.1.2-1'
+version = '1.1.3-1'
 -- LuaDist source
 source = {
-  tag = "1.1.2-1",
+  tag = "1.1.3-1",
   url = "git://github.com/LuaDist-testing/i2c.git"
 }
 -- Original source
 -- source = {
 --     url = 'git://github.com/mrpace2/lua-i2c',
---     tag = 'v1.1.2'
+--     tag = 'v1.1.3'
 -- }
 description = {
     summary = 'I2C Lua binding',
